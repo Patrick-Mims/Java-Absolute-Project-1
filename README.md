@@ -22,6 +22,9 @@ For example, if there were six suitors, the elimination process would proceed as
 15      Suitor 2 eliminated; continue counting from 5.
 1       Suitor 5 eliminated; 1 is the lucky winner.
 
+
+Assignment
+
 Write a program that creates a cirucular linked list of nodes to determine which position you should stand in to marry the princes if there are n suitors.
 
 Your program should simulate the elimination process be deleting the node that corresponds to the suitor that is eliminated for each step in the process.
