@@ -1,6 +1,7 @@
 # Java-Absolute-Project-1
 
-In an ancient land, the beutiful princess Eve many suitors. She decided on the following procedute to determine which suitor she would marry. 
+In an ancient land, the beutiful princess Eve many suitors. 
+She decided on the following procedute to determine which suitor she would marry. 
 
 First, all of the suitors would be lined up one after the other and assigned numbers. 
 
